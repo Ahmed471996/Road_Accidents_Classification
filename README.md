@@ -45,4 +45,4 @@ Type of Vehicle
 
 Casualty Severity
 
-image.png
+
